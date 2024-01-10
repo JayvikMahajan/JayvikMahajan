@@ -1,4 +1,4 @@
-![logo](https://github.com/JayvikMahajan/JayvikMahajan/blob/main/Github-banner.png)
+![logo](https://github.com/JayvikMahajan/JayvikMahajan/blob/main/Github-banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Jayvik Mahajan</h1>
 <h3 align="center">A passionate Data Science and ML Enthusiast from India</h3>
 
