@@ -1,4 +1,4 @@
-![logo](https://github.com/JayvikMahajan/JayvikMahajan/blob/main/Github-banner%20(2).png)
+![logo](https://github.com/JayvikMahajan/JayvikMahajan/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jayvik Mahajan</h1>
 <h3 align="center">A passionate Data Science and ML Enthusiast from India</h3>
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayvikmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="jayvikmahajan" /> </p>
 
-- 🌱 I’m currently learning **Satistics and Deep Learning**
+- 🌱 I’m currently learning **Statistics and Deep Learning**
 
-- 💬 Ask me about **Python,ML,MySql**
+- 💬 Ask me about **Python,ML,MySql,DL**
 
 - 📫 How to reach me **mahajanjayvik@gmail.com**
 
